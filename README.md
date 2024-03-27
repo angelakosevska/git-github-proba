@@ -1,4 +1,4 @@
-<!-- 1. otvaram terminal na VSC
+me<!-- 1. otvaram terminal na VSC
 2. menvam lokacijata do folderot kaj sho kje mi se files so cd C:\Users\Angela\Desktop\IWработнигрупи2324\GitPRoba
 3. git init (inicijaliziram repo )
 4. vo to repo sakam da klam file-ot index.html so komandata:
@@ -26,5 +26,5 @@ ama ima error radi verifikacija i mozi
 4. git push origin master dodadovme token od git
 5. pa ova izlegva sugestija ako manime git push git push --set-upstream origin master
 4. a remote commits are downloaded via git pull
-
+5. za readme fileo markdown formatting
 -->
