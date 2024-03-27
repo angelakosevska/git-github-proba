@@ -1,4 +1,4 @@
-me<!-- 1. otvaram terminal na VSC
+<!-- 1. otvaram terminal na VSC
 2. menvam lokacijata do folderot kaj sho kje mi se files so cd C:\Users\Angela\Desktop\IWработнигрупи2324\GitPRoba
 3. git init (inicijaliziram repo )
 4. vo to repo sakam da klam file-ot index.html so komandata:
